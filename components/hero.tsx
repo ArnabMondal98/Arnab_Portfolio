@@ -11,10 +11,11 @@ export function Hero() {
         <div className="mb-8 flex justify-center opacity-0 animate-fade-in-up">
           <div className="relative h-32 w-32 overflow-hidden rounded-full border-2 border-primary/40 shadow-lg shadow-primary/10 sm:h-36 sm:w-36">
             <Image
-              src="/profile.jpg"
-              alt={profile.name}
-              fill
-              className="object-cover"
+              src="/Arnab_Portfolio+Picture.jpg"
+              alt="Arnab Mondal"
+              width={220}
+              height={220}
+              className="rounded-full border"
               priority
             />
           </div>
