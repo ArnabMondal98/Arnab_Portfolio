@@ -27,7 +27,7 @@ export function Hero() {
         </p>
 
         {/* Main Heading */}
-        <h1 className="mt-8 text-4xl md:text-6xl font-bold">
+        <h1 className="mt-8 text-4xl md:text-5xl font-bold">
           {profile.shortHeadline}
         </h1>
 
