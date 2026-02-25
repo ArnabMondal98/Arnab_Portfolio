@@ -84,7 +84,7 @@ export const competencies = [
 export const experiences = [
   {
     period: "Oct 2021 — Present",
-    title: "Data Analyst (Test Data & Analytics)",
+    title: "Data Analyst (Product Analytics)",
     company: "Cognizant",
     location: "Kolkata, India",
     bullets: [
