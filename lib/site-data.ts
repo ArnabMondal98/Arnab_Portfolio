@@ -9,7 +9,7 @@ export const siteConfig = {
   name: "Arnab Mondal",
   title: "Enterprise Data Analyst",
   tagline:
-    "Enterprise Data Analyst Delivering Scalable Analytics & Production-Ready Data Solutions",
+    "Delivering scalable analytics & cloud-based data solutions for enterprise environments.",
   subtitle:
     "4+ years of experience optimizing SQL pipelines, designing validation frameworks, building ETL processes, and delivering BI dashboards across Dev, QA, and Production environments.",
   availability:
