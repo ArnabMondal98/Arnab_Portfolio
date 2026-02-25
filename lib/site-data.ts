@@ -221,7 +221,7 @@ export const certifications = [
     name: "Databricks Accredited Databricks Fundamentals",
     issuer: "Databricks Academy",
     year: "2025",
-    image: "/certificates/databricks-fundamentals.jpg",
+    image: "/certificates/databricks-fundamentals.png",
   },
   {
     name: "Cloud Computing with AWS Training",
