@@ -56,9 +56,9 @@ export function Hero() {
           <a
             href="/ARNAB-MONDAL-DA-Resume.pdf"
             download
-            className="btn-class"
+            className="inline-flex items-center justify-center rounded-lg border border-border px-6 py-3 text-sm font-medium text-foreground transition-colors hover:bg-primary hover:text-primary-foreground"
           >
-            <Download className="h-4 w-4" />
+            <Download className="mr-2 h-4 w-4" />
             Download Resume
           </a>
 
