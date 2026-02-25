@@ -54,9 +54,9 @@ export function Hero() {
           </a>
 
           <a
-            href={`/${profile.ARNAB-MONDAL-DA-Resume}`}
+            href="/ARNAB-MONDAL-DA-Resume.pdf"
             download
-            className="inline-flex items-center justify-center gap-2 rounded-lg border border-border px-6 py-3 text-sm font-medium text-foreground transition-colors hover:bg-secondary"
+            className="btn-class"
           >
             <Download className="h-4 w-4" />
             Download Resume
