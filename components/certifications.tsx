@@ -32,10 +32,11 @@ export function Certifications() {
               {cert.image && (
                 <div className="relative mt-4 h-48 w-full overflow-hidden rounded-lg">
                   <Image
-                    src={cert.image}
-                    alt={cert.name}
-                    fill
-                    className="object-cover"
+                     src="/certificates/databricks-fundamentals.png"
+                     alt="Databricks Accredited Fundamentals Certificate"
+                     width={600}
+                     height={400}
+                     className="mt-4 rounded-lg border border-border shadow-md"
                   />
                 </div>
               )}
