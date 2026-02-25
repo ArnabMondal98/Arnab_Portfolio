@@ -30,9 +30,13 @@ export function Certifications() {
               )}
 
               {cert.image && (
-                <div className="relative mt-4 h-48 w-full overflow-hidden rounded-lg">
+                <div key={certificate.title}>
+                  <h3>{certificate.title}</h3>
+                  <p>
+                    {certificate.issuer} • {certificate.year}
+                  </p>
+              
                   <Image
-                    key={certificate.title}
                     src={certificate.image}
                     alt={certificate.title}
                     width={500}
