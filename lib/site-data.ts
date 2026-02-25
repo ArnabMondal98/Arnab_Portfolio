@@ -113,7 +113,6 @@ export type Certification = {
   year?: string;
   pdf?: string;
   image?: string;
-  png?: string;
 };
 
 export type Education = {
@@ -219,16 +218,10 @@ export const projects: Project[] = [
 
 export const certifications = [
   {
-    name: "Databricks Accredited Databricks Fundamentals",
+    title: "Databricks Fundamentals",
     issuer: "Databricks Academy",
     year: "2025",
-    <Image
-      src="/certificates/databricks-fundamentals.png"
-      alt="Databricks Accredited Fundamentals Certificate"
-      width={500}
-      height={350}
-      className="rounded-lg"
-    />
+    image: "/certificates/databricks-fundamentals.png"
   },
   {
     name: "Cloud Computing with AWS Training",
