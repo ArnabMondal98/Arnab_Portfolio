@@ -113,6 +113,7 @@ export type Certification = {
   year?: string;
   pdf?: string;
   image?: string;
+  png?: string;
 };
 
 export type Education = {
@@ -221,7 +222,13 @@ export const certifications = [
     name: "Databricks Accredited Databricks Fundamentals",
     issuer: "Databricks Academy",
     year: "2025",
-    image: "/certificates/databricks-fundamentals.png",
+    <Image
+      src="/certificates/databricks-fundamentals.png"
+      alt="Databricks Accredited Fundamentals Certificate"
+      width={500}
+      height={350}
+      className="rounded-lg"
+    />
   },
   {
     name: "Cloud Computing with AWS Training",
