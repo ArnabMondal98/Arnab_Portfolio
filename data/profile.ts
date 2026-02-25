@@ -2,17 +2,19 @@ export const profile = {
   name: "Arnab Mondal",
 
   title:
-    "Enterprise Data Analyst | SQL • Python • Azure Databricks • BI Solutions",
+    "Enterprise Data Analyst | SQL • Python • Azure Databricks • BI Solutions • ETL • CLOUD ANALYTICS",
 
   shortHeadline:
-    "Delivering scalable analytics, ETL pipelines, and production-ready data validation systems.",
+    "Delivering scalable analytics & cloud-based data solutions for enterprise environments.",
 
   summary: `
-Enterprise Data Analyst with 4+ years of experience at Cognizant delivering high-quality analytics, reporting automation, and data validation solutions across Dev, QA, and Production environments.
+  <p className="mt-6 max-w-3xl text-lg text-muted-foreground">
+  Enterprise Data Analyst with 4+ years of experience at Cognizant delivering SQL-driven analytics, reporting automation, and Azure-based data solutions across Dev, QA, and Production environments.
+  </p>
 
-Specialized in SQL optimization, ETL pipeline development, Azure Databricks processing, and BI dashboard design. Experienced in handling 500K–1M+ records, improving system performance by 25%, and ensuring 95%+ data accuracy.
-
-Passionate about scalable data architecture, cloud-based data platforms, and transitioning toward Data Engineering roles.
+  <p className="mt-4 max-w-3xl text-lg text-muted-foreground">
+  Specialized in ETL pipeline development, Azure Databricks processing, Power BI reporting, and performance optimization. Experienced in handling 500K–1M+ records, improving system efficiency by 25%, and ensuring 95%+ data accuracy. Strong focus on scalable data architecture and data governance aligned with EU compliance standards.
+  </p>
   `,
 
   location: "Kolkata, India",
@@ -58,4 +60,5 @@ Passionate about scalable data architecture, cloud-based data platforms, and tra
       "Predictive Analytics"
     ]
   }
+
 };
