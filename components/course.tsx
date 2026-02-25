@@ -1,5 +1,6 @@
 import { BookOpen } from "lucide-react"
 import { course } from "@/lib/site-data"
+import Image from "next/image"
 
 export function Course() {
   return (
@@ -43,6 +44,14 @@ export function Course() {
                     {skill}
                   </span>
                 ))}
+              </div>
+              <div className="mt-6">
+                <iframe
+                  src="/certificates/ArnabMondal_Upgrad_BA_Certificate.pdf"
+                  width="100%"
+                  height="500px"
+                  className="rounded-lg border border-border"
+                ></iframe>
               </div>
             </div>
           </div>
