@@ -9,13 +9,13 @@ export function Hero() {
         
         {/* Profile Image */}
         <div className="mb-8 flex justify-center opacity-0 animate-fade-in-up">
-          <div className="relative h-32 w-32 overflow-hidden rounded-full border-2 border-primary/40 shadow-lg shadow-primary/10 sm:h-36 sm:w-36">
+          <div className="flex flex-col items-center text-center">
             <Image
               src="/Arnab_Portfolio+Picture.jpg"
               alt="Arnab Mondal"
-              width={220}
-              height={220}
-              className="rounded-full border"
+              width={260}
+              height={260}
+              className="rounded-full border-4 border-primary shadow-xl"
               priority
             />
           </div>
@@ -27,7 +27,7 @@ export function Hero() {
         </p>
 
         {/* Main Heading */}
-        <h1 className="text-balance text-3xl font-bold leading-tight tracking-tight text-foreground opacity-0 animate-fade-in-up animate-delay-200 sm:text-4xl md:text-5xl lg:text-6xl">
+        <h1 className="mt-8 text-4xl md:text-6xl font-bold">
           {profile.shortHeadline}
         </h1>
 
