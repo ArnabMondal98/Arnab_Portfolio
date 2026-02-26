@@ -13,8 +13,8 @@ export function Hero() {
             <Image
               src="/Arnab_Portfolio+Picture.jpg"
               alt="Arnab Mondal"
-              width={250}
-              height={250}
+              width={240}
+              height={240}
               className="rounded-full border-4 border-primary shadow-xl"
               priority
             />
