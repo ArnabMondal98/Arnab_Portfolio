@@ -86,6 +86,7 @@ export const experiences = [
     period: "Oct 2021 — Present",
     title: "Data Analyst (Product Analytics)",
     company: "Cognizant",
+    logo: "/logos/cognizant.jpg",
     location: "Kolkata, India",
     bullets: [
       "Analyzed application and database performance across 8+ enterprise projects, identifying data bottlenecks and improving system efficiency by 25% through SQL optimization and Azure Databricks.",
