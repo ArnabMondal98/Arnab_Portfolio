@@ -7,8 +7,8 @@ export const profile = {
   shortHeadline:
     "Delivering scalable analytics & cloud-based data solutions for enterprise environments.",
 
-  summary: `
-    Enterprise Data Analyst with 4+ years of experience at Cognizant delivering SQL-driven analytics, reporting automation, and Azure-based data solutions across Dev, QA, and Production environments.\n\nSpecialized in ETL pipeline development, Azure Databricks processing, Power BI reporting, and performance optimization. Experienced in handling 500K–1M+ records, improving system efficiency by 25%, and ensuring 95%+ data accuracy.\n\nStrong focus on scalable data architecture and data governance aligned with EU compliance standards.,
+  summary:
+  "Enterprise Data Analyst with 4+ years of experience at Cognizant delivering SQL-driven analytics, reporting automation, and Azure-based data solutions across Dev, QA, and Production environments.\n\nSpecialized in ETL pipeline development, Azure Databricks processing, Power BI reporting, and performance optimization. Experienced in handling 500K–1M+ records, improving system efficiency by 25%, and ensuring 95%+ data accuracy.\n\nStrong focus on scalable data architecture and data governance aligned with EU compliance standards.",
 
   location: "Kolkata, India",
 
@@ -55,6 +55,7 @@ export const profile = {
   }
 
 };
+
 
 
 
