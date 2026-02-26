@@ -32,9 +32,7 @@ export function Experience() {
                     <h3 className="text-lg font-semibold text-foreground">
                       {exp.title}
                     </h3>
-                    //<p className="mb-3 text-sm font-medium text-muted-foreground">
-                    // {exp.company}
-                    //</p>
+                  
                     <div className="mb-3 flex items-center gap-3">
                       <Image
                         src="/logos/cognizant.jpg"
