@@ -37,8 +37,8 @@ export function Experience() {
                       <Image
                         src="/logos/cognizant.jpg"
                         alt="Cognizant"
-                        width={55}
-                        height={55}
+                        width={75}
+                        height={75}
                         className="rounded-sm"
                       />
                       <span className="text-primary font-semibold text-lg tracking-wide">
