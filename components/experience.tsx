@@ -1,4 +1,5 @@
 import { experiences } from "@/lib/site-data"
+import Image from "next/image"
 
 export function Experience() {
   return (
@@ -31,9 +32,21 @@ export function Experience() {
                     <h3 className="text-lg font-semibold text-foreground">
                       {exp.title}
                     </h3>
-                    <p className="mb-3 text-sm font-medium text-muted-foreground">
-                      {exp.company}
-                    </p>
+                    //<p className="mb-3 text-sm font-medium text-muted-foreground">
+                    // {exp.company}
+                    //</p>
+                    <div className="mb-3 flex items-center gap-3">
+                      <Image
+                        src="/logos/cognizant.jpg"
+                        alt="Cognizant"
+                        width={26}
+                        height={26}
+                        className="rounded-sm"
+                      />
+                      <span className="text-primary font-semibold text-lg tracking-wide">
+                        {exp.company}
+                      </span>
+                    </div>
 
                     <ul className="flex flex-col gap-2">
                       {exp.bullets.map((bullet, i) => (
