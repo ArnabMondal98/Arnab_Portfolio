@@ -13,8 +13,8 @@ export function Hero() {
             <Image
               src="/Arnab_Portfolio+Picture.jpg"
               alt="Arnab Mondal"
-              width={260}
-              height={260}
+              width={250}
+              height={250}
               className="rounded-full border-4 border-primary shadow-xl"
               priority
             />
@@ -32,7 +32,7 @@ export function Hero() {
         </h1>
 
         {/* Summary */}
-        <p className="mx-auto mt-6 max-w-3xl text-pretty text-base leading-relaxed text-muted-foreground opacity-0 animate-fade-in-up animate-delay-300 md:text-lg">
+        <p className="mx-auto mt-6 max-w-3xl text-lg text-muted-foreground space-y-4 opacity-0 animate-fade-in-up animate-delay-300 md:text-lg">
           {profile.summary}
         </p>
 
