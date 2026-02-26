@@ -32,7 +32,7 @@ export function Hero() {
         </h1>
 
         {/* Summary */}
-        <p className="mx-auto mt-6 max-w-3xl text-lg text-muted-foreground space-y-4 opacity-0 animate-fade-in-up animate-delay-300 md:text-lg">
+        <p className="mx-auto mt-6 max-w-3xl text-lg text-muted-foreground whitespace-pre-line">
           {profile.summary}
         </p>
 
