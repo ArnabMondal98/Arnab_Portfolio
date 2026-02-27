@@ -14,7 +14,7 @@ export const siteConfig = {
     "4+ years of experience optimizing SQL pipelines, designing validation frameworks, building ETL processes, and delivering BI dashboards across Dev, QA, and Production environments.",
   availability:
     "Open to UK / EU Opportunities  |  Open to Relocation  |  Visa Sponsorship Welcome",
-  resumeUrl: "/ARNAB-MONDAL-DA-Resume.pdf",
+  resumeUrl: "/ArnabMondal_DataAnalyst_Resume.pdf",
   profileImage: "/images/arnab-profile.jpg",
   githubUrl: "https://github.com/ArnabMondal98",
   linkedinUrl: "https://www.linkedin.com/in/arnabmondal98",
