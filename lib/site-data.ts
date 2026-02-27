@@ -254,7 +254,7 @@ export const certifications = [
     issuer: "CISCO Networking Academy",
     year: "2026",
     pdf: "/certificates/IntrotoDataScience_Cisco.pdf",
-    image: "/certificates/introduction-to-data-science.png" 
+    //image: "/certificates/introduction-to-data-science.png" 
   },
 ]
 
