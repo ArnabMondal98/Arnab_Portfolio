@@ -256,6 +256,12 @@ export const certifications = [
     pdf: "/certificates/IntrotoDataScience_Cisco.pdf",
     //image: "/certificates/introduction-to-data-science.png" 
   },
+   {
+    name: "Introduction to end-to-end analytics using Microsoft Fabric",
+    issuer: "Microsoft",
+    year: "2026",
+    pdf: "/certificates/Microsoft_Analytics_using_Fabric.pdf",
+  },
 ]
 
 export const education = [
