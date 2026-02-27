@@ -54,7 +54,7 @@ export function Hero() {
           </a>
 
           <a
-            href="/ARNAB-MONDAL-DA-Resume.pdf"
+            href="/ArnabMondal_DataAnalyst_Resume.pdf"
             download
             className="inline-flex items-center justify-center rounded-lg border border-border px-6 py-3 text-sm font-medium text-foreground transition-colors hover:bg-primary hover:text-primary-foreground"
           >
