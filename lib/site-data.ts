@@ -249,6 +249,12 @@ export const certifications = [
     year: "2025",
     pdf: "/certificates/Career-Essentials-DataAnalysis-Microsoft_LinkedIn.pdf",
   },
+   {
+    name: "Introduction to Data Science",
+    issuer: "CISCO Networking Academy",
+    year: "2026",
+    pdf: "/certificates/IntrotoDataScience_Cisco.pdf",
+  },
 ]
 
 export const education = [
