@@ -222,7 +222,7 @@ export const certifications = [
     name: "Data Analytics Job Simulation",
     issuer: "Deloitte",
     year: "2026",
-    image: "/certificates/Deloitte_DataAnalytics_completion_certificate.png" 
+    image: "/certificates/Deloitte_DataAnalytics_completion_certificate.jpg" 
     pdf: "/certificates/Deloitte_DataAnalytics_completion_certificate.pdf"
   },
   {
