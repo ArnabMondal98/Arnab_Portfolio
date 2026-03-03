@@ -219,9 +219,10 @@ export const projects: Project[] = [
 
 export const certifications = [
    {
-    title: "Data Analytics Job Simulation",
+    name: "Data Analytics Job Simulation",
     issuer: "Deloitte",
     year: "2026",
+    image: "/certificates/Deloitte_DataAnalytics_completion_certificate.png" 
     pdf: "/certificates/Deloitte_DataAnalytics_completion_certificate.pdf"
   },
   {
