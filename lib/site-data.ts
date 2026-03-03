@@ -218,6 +218,12 @@ export const projects: Project[] = [
 ]
 
 export const certifications = [
+   {
+    title: "Data Analytics Job Simulation",
+    issuer: "Deloitte",
+    year: "2026",
+    image: "/certificates/Deloitte_DataAnalytics_completion_certificate.pdf"
+  },
   {
     title: "Databricks Fundamentals",
     issuer: "Databricks Academy",
@@ -261,6 +267,12 @@ export const certifications = [
     issuer: "Microsoft",
     year: "2026",
     pdf: "/certificates/Microsoft_Analytics_using_Fabric.pdf",
+  },
+  {
+    name: "Certificate Of Achievement For passing the One Roadmap Skill Certification Test in Data Analyst",
+    issuer: "One Roadmap",
+    year: "2026",
+    pdf: "/certificates/Data Analyst-Oneroadmap_Certificate.pdf",
   },
 ]
 
