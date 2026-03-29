@@ -23,7 +23,7 @@ export const profile = {
 
   github: "https://github.com/ArnabMondal98",
 
-  resumeUrl: "/ArnabMondal_DataAnalyst_Resume.pdf",
+  resumeUrl: "/ArnabMondal_Europe_DataAnalytics_Resume.pdf",
     
   skills: {
     analytics: [
